@@ -22,14 +22,14 @@ This repository is a comprehensive list of AI/ML & Data Science jobs for college
     <img src="https://speedyapply-web-app.vercel.app/api/chart?repo=ai" width="800" alt="AI/ML College Job Market">
   </a>
 </div>
-<p align="center">
+<div align="center">
   <a href="https://discord.gg/gaJnCmTHuN">
     <img src="https://github.com/user-attachments/assets/1547dbd1-89d9-4f14-8feb-70cab53b1335" width="132" alt="SpeedyApply Discord Server">
   </a>
   <a href="https://chromewebstore.google.com/detail/speedyapply-job-applicati/mbgjopdedgonlbpikjfibkccpmhjbnag">
     <img src="https://github.com/user-attachments/assets/e8ad0070-9f04-4b1c-9291-a268775aab69" width="132" alt="SpeedyApply Chrome Web Store">
   </a>
-</p>
+</div>
 <br/>
 
 :raised_hands: Looking for a **Software Engineering** job? [Check out our SWE college jobs list.](https://github.com/speedyapply/2025-SWE-College-Jobs) :raised_hands:
