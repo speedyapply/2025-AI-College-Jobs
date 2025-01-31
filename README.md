@@ -19,7 +19,7 @@ This repository is a comprehensive list of AI/ML & Data Science jobs for college
 <br/>
 <div align="center">
   <a href="https://speedyapply.com">
-    <img src="https://speedyapply-web-app.vercel.app/api/chart?repo=ai" width="800" alt="AI/ML College Job Market">
+    <img src="https://speedyapply.com/api/jobs/chart?repo=ai" width="800" alt="AI/ML College Job Market">
   </a>
 </div>
 <div align="center">
