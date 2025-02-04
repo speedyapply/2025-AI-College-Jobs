@@ -34,8 +34,6 @@ This repository is a comprehensive list of AI/ML & Data Science jobs for college
 
 :raised_hands: Looking for a **Software Engineering** job? [Check out our SWE college jobs list.](https://github.com/speedyapply/2025-SWE-College-Jobs) :raised_hands:
 
-_Built using [**JobSpy**](https://github.com/Bunsly/JobSpy) by Bunsly._
-
 <a name="intern-usa"></a>
 ## 2025 USA AI Internships :books::eagle:
 
