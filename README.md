@@ -1,8 +1,7 @@
-# 2025 Artificial Intelligence Internship & New Grad Positions
+# 2026 Artificial Intelligence Internship & New Grad Positions
 
 <p align="center">
 <a href="https://circleci.com/gh/gjbae1212/hit-counter"><img src="https://img.shields.io/badge/526%20Jobs-6366F1"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fspeedyapply%2F2025-AI-College-Jobs&count_bg=%236366F1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
 
@@ -35,7 +34,7 @@ This repository is a comprehensive list of AI/ML & Data Science jobs for college
 :raised_hands: Looking for a **Software Engineering** job? [Check out our SWE college jobs list.](https://github.com/speedyapply/2025-SWE-College-Jobs) :raised_hands:
 
 <a name="intern-usa"></a>
-## 2025 USA AI Internships :books::eagle:
+## 2026 USA AI Internships :books::eagle:
 
 [:arrow_down_small:End of List](#bottom)
 <a name="top"></a>

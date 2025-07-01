@@ -1,4 +1,4 @@
-## 2025 USA AI New Graduate Positions :mortar_board::eagle:
+## 2026 USA AI New Graduate Positions :mortar_board::eagle:
 
 ### USA Positions :eagle:
 - [Internships :books:](/) - **82** available ([FAANG+](/#faang), [Quant](/#quant), [Other](/#other))
